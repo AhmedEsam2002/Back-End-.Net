@@ -1,0 +1,14 @@
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\bin\Debug\net8.0\Session 2.exe
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\bin\Debug\net8.0\Session 2.deps.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\bin\Debug\net8.0\Session 2.runtimeconfig.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\bin\Debug\net8.0\Session 2.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\bin\Debug\net8.0\Session 2.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.AssemblyInfoInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.AssemblyInfo.cs
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\refint\Session 2.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\Session 2.genruntimeconfig.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 2\Demo\Session 2 solution\Session 2\obj\Debug\net8.0\ref\Session 2.dll

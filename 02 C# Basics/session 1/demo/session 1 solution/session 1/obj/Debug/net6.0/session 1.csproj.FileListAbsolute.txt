@@ -1,0 +1,14 @@
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\bin\Debug\net6.0\session 1.exe
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\bin\Debug\net6.0\session 1.deps.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\bin\Debug\net6.0\session 1.runtimeconfig.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\bin\Debug\net6.0\session 1.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\bin\Debug\net6.0\session 1.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.AssemblyInfoInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.AssemblyInfo.cs
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\refint\session 1.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\session 1.genruntimeconfig.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session 1\demo\session 1 solution\session 1\obj\Debug\net6.0\ref\session 1.dll
