@@ -1,0 +1,14 @@
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\bin\Debug\net8.0\assignment 4.exe
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\bin\Debug\net8.0\assignment 4.deps.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\bin\Debug\net8.0\assignment 4.runtimeconfig.json
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\bin\Debug\net8.0\assignment 4.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\bin\Debug\net8.0\assignment 4.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.AssemblyInfoInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.AssemblyInfo.cs
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\refint\assignment 4.dll
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.pdb
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\assignment 4.genruntimeconfig.cache
+C:\Users\ahmed\Downloads\Projects\BackEnd Course\02 C# Basics\session4\assignment\assignment 4\assignment 4\obj\Debug\net8.0\ref\assignment 4.dll
