@@ -1,0 +1,14 @@
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\bin\Debug\net8.0\Genaric Assignment.exe
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\bin\Debug\net8.0\Genaric Assignment.deps.json
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\bin\Debug\net8.0\Genaric Assignment.runtimeconfig.json
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\bin\Debug\net8.0\Genaric Assignment.dll
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\bin\Debug\net8.0\Genaric Assignment.pdb
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.AssemblyInfoInputs.cache
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.AssemblyInfo.cs
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.csproj.CoreCompileInputs.cache
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.dll
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\refint\Genaric Assignment.dll
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.pdb
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\Genaric Assignment.genruntimeconfig.cache
+D:\Back End Course\Eng Aliaa Tarek\04 Advanced C#\Session 01\Assignments\Advanced C# -Ass (1)\Genaric Assignment\Genaric Assignment\obj\Debug\net8.0\ref\Genaric Assignment.dll
